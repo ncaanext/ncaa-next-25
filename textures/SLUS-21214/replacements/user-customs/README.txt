@@ -1,0 +1,3 @@
+Put all of your custom work and installation-specific overrides in this folder.
+
+Why? With most updates of the mod, you will need to delete your entire replacements folder and use the new version's replacements folder. By keeping all of your custom work here, you can quickly temporarily move all of your custom textures out of the replacements folder before deleting it, and then move everything back into the new replacements folder.
