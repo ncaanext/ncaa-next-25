@@ -1,0 +1,35 @@
+SORT ID,TEAM NAME,SLOT,ITEM,NAME/DESCRIPTION,MOD REPLACES WITH,FILENAME
+1,Washington,Home,Face Protector,"Face Protector Front (TC, matches sleeves)",,70cf006c2ba8aad7-6f59d54fc3ff0d9e-00005994.png
+2,Washington,Home,Face Protector,"Face Protector Top (TC, matches sleeves)",,6b25aad02bc781bb-6f59d54fc3ff0d9e-00005554.png
+3,Washington,Home,Elbow,Bk TC Pad ,,7681550dea5b951d-e5782154a3b11fb4-00005993.png
+4,Washington,Home,Elbow,Wt TC Pad,,7681550dea5b951d-6dbf8df5c8059bb6-00005993.png
+5,Washington,Home,Elbow,TC Med Band ,TC ¾ Sleeve Top,be85f4bf3d074dba-1c1d9e00a16a53ed-00005993.png
+6,Washington,Home,Elbow,TC Thin Band ,TC Elbow Band,be85f4bf3d074dba-fe4031ab6ac6145b-00005993.png
+7,Washington,Home,Long Sleeves,TC Long Sleeves ,,8fb789c60161de74-7c6254ed9b439a4f-00005993.png
+8,Washington,Home,Wrist,Wt QB Wrist ,,3a30272f374c5d47-6dbf8df5c8059bb6-00005993.png
+9,Washington,Home,Wrist,BK QB Wrist,,3a30272f374c5d47-e5782154a3b11fb4-00005993.png
+10,Washington,Home,Wrist,TC QB Wrist ,,3a30272f374c5d47-7c6254ed9b439a4f-00005993.png
+11,Washington,Home,Wrist,TC Wrist,,8006ca814728a41c-e5782154a3b11fb4-00005993.png
+12,Washington,Home,Wrist,Wt Half Sleeve ,White ¾ Sleeve Bottom,faf01b33cbdc0f1a-6dbf8df5c8059bb6-00005993.png
+13,Washington,Home,Wrist,Bk Half Sleeve,Black ¾ Sleeve Bottom,faf01b33cbdc0f1a-e5782154a3b11fb4-00005993.png
+14,Washington,Home,Wrist,TC Half Sleeve ,,faf01b33cbdc0f1a-7c6254ed9b439a4f-00005993.png
+15,Washington,Home,Shoes,Shoes,,9b96b9191c431b47-c72a9f1ea9c9078f-000059d3.png
+16,Washington,Home,Shoes,Shoes w/ White Tape,,adf3868e35b7c0c2-c72a9f1ea9c9078f-000059d3.png
+17,Washington,Home,Shoes,Shoes w/ Black Tape,,adf3868e35b7c0c2-57684925d2f8c5d6-000059d3.png
+18,Washington,Home,Shoes,Shoes w/ TC Tape,,adf3868e35b7c0c2-22a7ae0327c07dfe-000059d3.png
+19,Washington,Home,Socks,Socks,,60e6b46db66dab20-135f4ac951d47b71-000059d4.png
+20,Washington,Home,Helmet,Helmet,,15b75d4ae4fc99b4-ea124b32c7cb3bb6-00005e13.png
+21,Washington,Home,Helmet,Chinstrap,,79750e5caa8c578f-f4ad55769995f107-00005593.png
+22,Washington,Home,Helmet,Pride Sticker,,6fd8c36a8881071a-b395a2462d00703b-00005554.png
+23,Washington,Home,Helmet,"Facemask, Far",,4c28faa93c009764-42fe0ef085c97001-00005554.png
+24,Washington,Home,Helmet,"Facemask, Near",,3221b7e857408285-93b53ffe47efa233-00005554.png
+25,Washington,Home,Pants,Pants,,df882f41bb25ed57-c7bf4c5f6fc6f6c7-00006213.png
+26,Washington,Home,Jersey,Jersey,,ab86cac715d17c6b-a17d0a53425af672-00006213.png
+27,Washington,Home,Numbers,Num 0-7,,231282145d302aec-bda30e3acc25c4fc-00006214.png
+28,Washington,Home,Numbers,Num 8-9,,b13affb161501c2-bda30e3acc25c4fc-00005dd4.png
+29,Washington,Home,Numbers,Num 0-7 shadow,,231282145d302aec-c006383c99eb0c44-00006214.png
+30,Washington,Home,Numbers,Num 8-9 shadow,,b13affb161501c2-c006383c99eb0c44-00005dd4.png
+31,Washington,Home,Numbers,Helmet Num 0-7,,-
+32,Washington,Home,Numbers,Helmet Num 8-9,,-
+33,Washington,Home,Numbers,Sleeve/Shoulder Num 0-7,,231282145d302aec-21e48a77539f5932-00006214.png
+34,Washington,Home,Numbers,Sleeve/Shoulder Num 8-9,,b13affb161501c2-21e48a77539f5932-00005dd4.png
