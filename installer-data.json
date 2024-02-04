@@ -1,0 +1,19 @@
+{
+  "version": "N25-beta-3",
+  "release_date": "2024-01-21",
+  "release_url": "https://github.com/ncaanext/ncaa-next-25",
+  "total_size": 11,
+  "temp_size": 0.9,
+  "download_complete": [
+    "textures/SLUS-21214/replacements/bowls",
+    "textures/SLUS-21214/replacements/controller",
+    "textures/SLUS-21214/replacements/general",
+    "textures/SLUS-21214/replacements/team-files/FCS",
+    "textures/SLUS-21214/replacements/user-customs"
+  ],
+  "download_subdirectories": [
+    "textures/SLUS-21214/replacements/team-files/FBS",
+    "textures/SLUS-21214/replacements/uniforms/FBS",
+    "textures/SLUS-21214/replacements/uniforms/FCS"
+  ]
+}
