@@ -1,0 +1,90 @@
+################################################
+# Project-specific ignores
+################################################
+
+
+############################################
+# Global across projects system files, etc. 
+############################################
+
+# Ignore hidden folders
+# This takes care of .tmp, .sass-cache, and many others
+.*/
+
+# OSX
+._*
+.AppleDouble
+.DS_Store
+.localized
+.LSOverride
+.Spotlight-V100
+.Trashes
+Icon
+
+# Windows
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+
+# Linux
+*~
+
+# Tags
+# Ignore tags created by etags and ctags
+TAGS
+tags
+
+# Ignore packages #
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+# *.zip
+
+# Output folders
+# dist/
+# html/
+# public
+# public_html/
+
+# Packages
+node_modules/
+.tmp
+test/
+
+# Compiled Java class files
+*.class
+
+# Compiled Python bytecode
+*.py[cod]
+
+# Log files
+*.log
+
+# JetBrains IDE
+.idea/
+
+# Unit test reports
+TEST*.xml
+
+# Large media files
+*.tiff
+
+# Sublime & VS Code
+*.sublime-project
+*.sublime-workspace
+*.sublime-projectcompletions
+*.code-workspace
+
+bower_components
+
+# Environment Variables
+.env
+.env.development
+.env.example
+.env.local
+.env.production
+.env.staging
