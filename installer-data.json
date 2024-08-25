@@ -1,8 +1,8 @@
 {
-  "version": "N25-BETA-V5c",
-  "release_date": "2024-05-27",
+  "version": "N25-BETA-V6",
+  "release_date": "2024-08-25",
   "release_url": "https://github.com/ncaanext/ncaa-next-25",
-  "total_size": 11,
+  "total_size": 12.5,
   "temp_size": 0.9,
   "download_complete": [
     "textures/SLUS-21214/replacements/bowls",
