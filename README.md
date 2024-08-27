@@ -1,6 +1,7 @@
 # NCAA 06 Football Next 25
 
-![Free Community-Made Add-On Content for NCAA Football 06](https://raw.githubusercontent.com/ncaanext//ncaa-next-24/v14/covers/next24-banner-github.jpg)
+![COVER-NEXT-25-beta-mono-r1](https://github.com/user-attachments/assets/629d3958-df16-4a44-b3db-001ea2f6b563)
+
 
 https://www.ncaanext.com
 
