@@ -1,6 +1,6 @@
 # NCAA 06 Football Next 25
 
-![COVER-NEXT-25](https://raw.githubusercontent.com/ncaanext/ncaa-next-25/main/covers/next25-banner-github-r1.jpg)
+![COVER-NEXT-25](https://raw.githubusercontent.com/ncaanext/ncaa-next-25/main/covers/next25-cover-beta-small.jpg)
 
 
 https://www.ncaanext.com
