@@ -9,7 +9,7 @@ https://www.ncaanext.com
 
 ### Latest Releases
 
-https://download.ncaanext.com
+https://next25.ncaanext.com
 
 If you run into problems first check the wiki on github, then the issues list. You can then try to get help on discord or file an issue on github.
 
