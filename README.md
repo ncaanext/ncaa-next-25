@@ -14,21 +14,18 @@ https://next25.ncaanext.com
 
 If you run into problems first check our website for help. You can also find help on discord or file an issue on github.
 
+### KNOWN BUGS & IMPORTANT GAMEPLAY INFO
+
+- There is a new settings menu in the EASY PLAY section. Please verify your changes. These do replace the QB/RB/Catch assist options. 
+- When user uses the NO HUDDLE function, you must audible to a new play before snapping otherwise you will down the ball.
+- If you make two long sims in a row during dynasty mode, please exit out of the schedule screen before simming a third consecutive time.
+- Please make a save at the beginning of a new season, exit out. Then reload the save and start again. This avoids crashes later!
+
 ### Discord
 
 Find our discord server here:
 
 https://discord.ncaanext.com
-
-### Media inquiries
-
-For media inquiries about this repository or project please start by contacting 
-
-* Email: antdroid@ncaanext.com | h4wduk3n@ncaanext.com | jd637@ncaanext.com | jdhalfrack@ncaanext.com
-
-You will be reminded to but be sure to use the contributor list in this Readme in your article or media.
-
-*We strive to acknowledge all those contributing assets and knowledge to this project.*
 
 ### Wiki Help
 
@@ -140,7 +137,19 @@ Graphics & Animations:
 - Changed Sports Illustrated to The Athletic
 - Upscaled Logos & Graphics
 
-### **Team Credits:**
+# Media inquiries
+
+For media inquiries about this repository or project please start by contacting 
+
+* Email: antdroid@ncaanext.com | h4wduk3n@ncaanext.com | jd637@ncaanext.com | jdhalfrack@ncaanext.com
+
+You will be reminded to but be sure to use the contributor list in this Readme in your article or media.
+
+*We strive to acknowledge all those contributing assets and knowledge to this project.*
+
+
+
+# **Team Credits:**
 
 Core Development Team:
 - Antdroid
