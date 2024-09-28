@@ -4,6 +4,7 @@
   "release_url": "https://github.com/ncaanext/ncaa-next-25",
   "total_size": 13.8,
   "temp_size": 1.0,
+  "min_downloader_app_version": 0.2,
   "download_complete": [
     "textures/SLUS-21214/replacements/bowls",
     "textures/SLUS-21214/replacements/controller",
