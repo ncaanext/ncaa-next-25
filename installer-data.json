@@ -1,10 +1,10 @@
 {
-  "version": "NEXT25-V15",
-  "release_date": "2024-09-27",
+  "version": "NEXT25-V15.5",
+  "release_date": "2025-02-15",
   "release_url": "https://github.com/ncaanext/ncaa-next-25",
-  "total_size": 13.8,
+  "total_size": 15.6,
   "temp_size": 1.0,
-  "min_downloader_app_version": 0.22,
+  "min_downloader_app_version": 0.23,
   "downloader_app_url": "http://textures.ncaanext.com",
   "download_complete": [
     "textures/SLUS-21214/replacements/bowls",
